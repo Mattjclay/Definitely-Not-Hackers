@@ -1,43 +1,43 @@
-# Summary
-
-[Introduction](README.md)
-
-# User Guide
-
-- [Installation](guide/installation.md)
-- [Reading Books](guide/reading.md)
-- [Creating a Book](guide/creating.md)
-
-# Reference Guide
-
-- [Command Line Tool](cli/README.md)
-    - [init](cli/init.md)
-    - [build](cli/build.md)
-    - [watch](cli/watch.md)
-    - [serve](cli/serve.md)
-    - [test](cli/test.md)
-    - [clean](cli/clean.md)
-    - [completions](cli/completions.md)
-- [Format](format/README.md)
-    - [SUMMARY.md](format/summary.md)
-        - [Draft chapter]()
-    - [Configuration](format/configuration/README.md)
-        - [General](format/configuration/general.md)
-        - [Preprocessors](format/configuration/preprocessors.md)
-        - [Renderers](format/configuration/renderers.md)
-        - [Environment Variables](format/configuration/environment-variables.md)
-    - [Theme](format/theme/README.md)
-        - [index.hbs](format/theme/index-hbs.md)
-        - [Syntax highlighting](format/theme/syntax-highlighting.md)
-        - [Editor](format/theme/editor.md)
-    - [MathJax Support](format/mathjax.md)
-    - [mdBook-specific features](format/mdbook.md)
-    - [Markdown](format/markdown.md)
-- [Continuous Integration](continuous-integration.md)
-- [For Developers](for_developers/README.md)
-    - [Preprocessors](for_developers/preprocessors.md)
-    - [Alternative Backends](for_developers/backends.md)
-
------------
-
+# 
+# Social Links
+- [Discord](socials/social.md)
+# Resources
+- [Links](resources/Links.md)
+- [Books](resources/books.md)
+- [Books](resources/books.md)
+---
+# CTF Write Ups
+- [Cyber Apocalypse HTB](WriteUps/CyberApocalypseHTB/Domains/Domains.md)
+  - [Domains](WriteUps/CyberApocalypseHTB/Domains/Domains.md)
+    - [Pwn](WriteUps/CyberApocalypseHTB/Domains/Pwn/Pwn.md)
+      - [Pandoras Box](WriteUps/CyberApocalypseHTB/Domains/Pwn/Pandoras.md)
+      - [Void](WriteUps/CyberApocalypseHTB/Domains/Pwn/Void.md)
+      - [Kana](WriteUps/CyberApocalypseHTB/Domains/Pwn/Kana.md)
+      - [Control Room](WriteUps/CyberApocalypseHTB/Domains/Pwn/Control.md)
+      - [Math Door](WriteUps/CyberApocalypseHTB/Domains/Pwn/Math.md)
+      - [Runic](WriteUps/CyberApocalypseHTB/Domains/Pwn/Runic.md)
+      - [Initialise Connection](WriteUps/CyberApocalypseHTB/Domains/Pwn/Initialise.md)
+      - [Questionnaire](WriteUps/CyberApocalypseHTB/Domains/Pwn/Questionnaire.md)
+      - [Getting Started](WriteUps/CyberApocalypseHTB/Domains/Pwn/Getting.md)  
+    - [Web](WriteUps/CyberApocalypseHTB/Domains/Web/Web.md)
+    - [Blockchain](WriteUps/CyberApocalypseHTB/Domains/Blockchain/Blockchain.md)
+    - [Hardware](WriteUps/CyberApocalypseHTB/Domains/Hardware/Hardware.md)
+    - [Reversing](WriteUps/CyberApocalypseHTB/Domains/Reversing/Reversing.md)
+      - [Cave System](WriteUps/CyberApocalypseHTB/Domains/Pwn/Pandoras.md)
+      - [Alien Saboteaur](WriteUps/CyberApocalypseHTB/Domains/Pwn/Void.md)
+      - [Gimmick DSP](WriteUps/CyberApocalypseHTB/Domains/Pwn/Kana.md)
+      - [Vessel Cartographer](WriteUps/CyberApocalypseHTB/Domains/Pwn/Control.md)
+      - [Somewhat Linear](WriteUps/CyberApocalypseHTB/Domains/Pwn/Math.md)
+      - [Analogue Signal processing](WriteUps/CyberApocalypseHTB/Domains/Pwn/Runic.md)
+      - [Shattered Tablet](WriteUps/CyberApocalypseHTB/Domains/Pwn/Initialise.md)
+      - [She Shells C Shells](WriteUps/CyberApocalypseHTB/Domains/Pwn/Questionnaire.md)
+      - [Needle in a Haystack](WriteUps/CyberApocalypseHTB/Domains/Pwn/Getting.md)
+      - [Hunting License](WriteUps/CyberApocalypseHTB/Domains/Pwn/Getting.md)
+    - [ML](WriteUps/CyberApocalypseHTB/Domains/ML/ML.md)
+    - [Misc](WriteUps/CyberApocalypseHTB/Domains/Misc/Misc.md)
+    - [Forensics](WriteUps/CyberApocalypseHTB/Domains/Forensics/Forensics.md)
+    - [Crypto](WriteUps/CyberApocalypseHTB/Domains/Crypto/Crypto.md)    
+  
+  
+------
 [Contributors](misc/contributors.md)
