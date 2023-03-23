@@ -4,8 +4,6 @@
 # Resources
 - [Links](resources/Links.md)
 - [Books](resources/books.md)
-- [Books](resources/books.md)
----
 # CTF Write Ups
 - [Cyber Apocalypse HTB](WriteUps/CyberApocalypseHTB/Domains/Domains.md)
   - [Domains](WriteUps/CyberApocalypseHTB/Domains/Domains.md)
@@ -37,7 +35,6 @@
     - [Misc](WriteUps/CyberApocalypseHTB/Domains/Misc/Misc.md)
     - [Forensics](WriteUps/CyberApocalypseHTB/Domains/Forensics/Forensics.md)
     - [Crypto](WriteUps/CyberApocalypseHTB/Domains/Crypto/Crypto.md)    
-  
   
 ------
 [Contributors](misc/contributors.md)
