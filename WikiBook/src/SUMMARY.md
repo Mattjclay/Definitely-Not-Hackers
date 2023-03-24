@@ -18,6 +18,7 @@
       - [Questionnaire](WriteUps/CyberApocalypseHTB/Domains/Pwn/Questionnaire.md)
       - [Getting Started](WriteUps/CyberApocalypseHTB/Domains/Pwn/Getting.md)  
     - [Web](WriteUps/CyberApocalypseHTB/Domains/Web/Web.md)
+      - [Drobots](WriteUps/CyberApocalypseHTB/Domains/Web/Drobots.md)
     - [Blockchain](WriteUps/CyberApocalypseHTB/Domains/Blockchain/Blockchain.md)
     - [Hardware](WriteUps/CyberApocalypseHTB/Domains/Hardware/Hardware.md)
     - [Reversing](WriteUps/CyberApocalypseHTB/Domains/Reversing/Reversing.md)
